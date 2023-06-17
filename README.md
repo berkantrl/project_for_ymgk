@@ -34,7 +34,7 @@ Bu uygulama Yazılım Mühendisliği Güncel Konular dersi kapsamında verilen b
 ### Resimler
 <img src="media/image5.jpeg" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="media/image4.jpeg" alt="Soru Ekranı" width="250">  <img src="media/image1.jpeg" alt="Soru Ekranı" width="250"> <img src="media/image2.jpeg" alt="Soru Ekranı" width="250"> <img src="ss/resim3.png" alt="Soru Ekranı" width="250"> 
 ### Video
-<img src="media/video.mp4" alt="Ekran Kaydı" width="250">
+[![Ekran Kaydı](https://github.com/berkantrl/project_for_ymgk/media/video.mp4)](https://github.com/berkantrl/project_for_ymgk/media/video.mp4)
 ### Apk Dosyası
 Dilerseniz aşağıda bulunan kurulum işlemlerini yapmadan bu apk dosyasını indirerek telefonunuzda çalıştırıp uygulamayı kullanabilirsiniz.
 <a href="apk_file/app-release.apk" target="_blank" return false;">   ㅤ
