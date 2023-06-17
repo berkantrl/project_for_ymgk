@@ -34,7 +34,7 @@ Bu uygulama Yazılım Mühendisliği Güncel Konular dersi kapsamında verilen b
 ### Resimler
 <img src="media/image5.jpeg" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="media/image4.jpeg" alt="Soru Ekranı" width="250">  <img src="media/image1.jpeg" alt="Soru Ekranı" width="250"> <img src="media/image2.jpeg" alt="Soru Ekranı" width="250">
 ### Video
-<a href="https://drive.google.com/file/d/1-VmDVuCF6OWGz7rGRV6Ene-h_95RV8Ga/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1jCx0t9dCJjchHgFj9k3RK098ZtEcMFXJ/view?usp=sharing'); return false;">Video için tıklayın</a> 
+<a href="https://drive.google.com/file/d/1Svl8SNFnR3INf3du_-P6E67xWnWmIiZR/view" target="_blank" onclick="window.open(https://drive.google.com/file/d/1Svl8SNFnR3INf3du_-P6E67xWnWmIiZR/view); return false;">Video için tıklayın</a> 
 ### Apk Dosyası
 Dilerseniz aşağıda bulunan kurulum işlemlerini yapmadan bu apk dosyasını indirerek telefonunuzda çalıştırıp uygulamayı kullanabilirsiniz.
 <a href="apk_file/app-release.apk" target="_blank" return false;">   ㅤ
