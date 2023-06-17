@@ -65,7 +65,7 @@ kullaniciadi yerine GitHub kullanıcı adınızı, lesson_ymgk_project ise repo 
 
 4.Adım- Terminalde proje dizinine gidin:
 
-`cd flutter_project_forYmgk`
+`cd project_for_Ymgk`
 
 5.Adım- Proje bağımlılıklarını yüklemek için aşağıdaki komutu çalıştırın:
 
