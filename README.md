@@ -32,9 +32,9 @@ Bu uygulama Yazılım Mühendisliği Güncel Konular dersi kapsamında verilen b
 
 # Proje Resimleri - Proje Videosu - Apk Dosyası
 ### Resimler
-<img src="media/image5.jpeg" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="media/image4.jpeg" alt="Soru Ekranı" width="250">  <img src="media/image1.jpeg" alt="Soru Ekranı" width="250"> <img src="media/image2.jpeg" alt="Soru Ekranı" width="250"> <img src="ss/resim3.png" alt="Soru Ekranı" width="250"> 
+<img src="media/image5.jpeg" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="media/image4.jpeg" alt="Soru Ekranı" width="250">  <img src="media/image1.jpeg" alt="Soru Ekranı" width="250"> <img src="media/image2.jpeg" alt="Soru Ekranı" width="250">
 ### Video
-[![Ekran Kaydı](https://github.com/berkantrl/project_for_ymgk/media/video.mp4)](https://github.com/berkantrl/project_for_ymgk/media/video.mp4)
+<a href="https://drive.google.com/file/d/1-VmDVuCF6OWGz7rGRV6Ene-h_95RV8Ga/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1jCx0t9dCJjchHgFj9k3RK098ZtEcMFXJ/view?usp=sharing'); return false;">Video için tıklayın</a> 
 ### Apk Dosyası
 Dilerseniz aşağıda bulunan kurulum işlemlerini yapmadan bu apk dosyasını indirerek telefonunuzda çalıştırıp uygulamayı kullanabilirsiniz.
 <a href="apk_file/app-release.apk" target="_blank" return false;">   ㅤ
