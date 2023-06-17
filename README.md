@@ -37,8 +37,7 @@ Bu uygulama Yazılım Mühendisliği Güncel Konular dersi kapsamında verilen b
 <a href="https://drive.google.com/file/d/1Svl8SNFnR3INf3du_-P6E67xWnWmIiZR/view" target="_blank" onclick="window.open(https://drive.google.com/file/d/1Svl8SNFnR3INf3du_-P6E67xWnWmIiZR/view); return false;">Video için tıklayın</a> 
 ### Apk Dosyası
 Dilerseniz aşağıda bulunan kurulum işlemlerini yapmadan bu apk dosyasını indirerek telefonunuzda çalıştırıp uygulamayı kullanabilirsiniz.
-<a href="apk_file/app-release.apk" target="_blank" return false;">   ㅤ
-  Apk dosyasını indirmek için tıklayın</a>
+<a href="apk_file/app-release.apk" target="_blank" onclick="window.open('apk_file/app-release.apk'); return false;">  Apk dosyasını indirmek için tıklayın</a>
 
 
 
