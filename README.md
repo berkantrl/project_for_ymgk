@@ -1,6 +1,6 @@
 # Proje Adı ve Tanıtımı
 
- Şekil Sırası Bulma Kart Oyunu. Bu proje Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersinin vize proje ödevi için verilen çocuk oyun kartlarından "Şekil Sırası" kartının mobil uygulama olarak yapılmış halidir.
+ Oyuncak Kart Oyunu. Bu proje Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersinin vize proje ödevi için verilen çocuk oyun kartlarından "Oyuncak" kartının mobil uygulama olarak yapılmış halidir.
 
 # İçindekiler
 
@@ -32,12 +32,12 @@ Bu uygulama Yazılım Mühendisliği Güncel Konular dersi kapsamında verilen b
 
 # Proje Resimleri - Proje Videosu - Apk Dosyası
 ### Resimler
-<img src="ss/resim1.png" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="ss/resim2.png" alt="Soru Ekranı" width="250">  <img src="ss/resim5.png" alt="Soru Ekranı" width="250"> <img src="ss/resim4.png" alt="Soru Ekranı" width="250"> <img src="ss/resim3.png" alt="Soru Ekranı" width="250"> 
+<img src="media/image5.jpeg" alt="Ana Menü Ekran Görüntüsü" width="250"> <img src="media/image4.jpeg" alt="Soru Ekranı" width="250">  <img src="media/image1.jpeg" alt="Soru Ekranı" width="250"> <img src="media/image2.jpeg" alt="Soru Ekranı" width="250"> <img src="ss/resim3.png" alt="Soru Ekranı" width="250"> 
 ### Video
-<a href="https://drive.google.com/file/d/1jCx0t9dCJjchHgFj9k3RK098ZtEcMFXJ/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1jCx0t9dCJjchHgFj9k3RK098ZtEcMFXJ/view?usp=sharing'); return false;">Video için tıklayın</a> 
+<img src="media/video.mp4" alt="Ekran Kaydı" width="250">
 ### Apk Dosyası
 Dilerseniz aşağıda bulunan kurulum işlemlerini yapmadan bu apk dosyasını indirerek telefonunuzda çalıştırıp uygulamayı kullanabilirsiniz.
-<a href="https://drive.google.com/file/d/1NDRuzJbyWB8QCWIm2M2f8gjLi32mZ2Zr/view?usp=sharing" target="_blank" onclick="window.open('https://drive.google.com/file/d/1NDRuzJbyWB8QCWIm2M2f8gjLi32mZ2Zr/view?usp=sharing'); return false;">   ㅤ
+<a href="apk_file/app-release.apk" target="_blank" return false;">   ㅤ
   Apk dosyasını indirmek için tıklayın</a>
 
 
@@ -60,7 +60,7 @@ Bu komut, Flutter'ın kurulumunu doğrular ve gerekli bağımlılıkların doğr
 
 3.Adım- Proje deposunu yerel makinenize klonlayın. Bunun için terminalde aşağıdaki komutu kullanabilirsiniz:
 
-`git clone https://github.com/gzcmustafa/flutter_project_forYmgk`
+`git clone https://github.com/berkantrl/project_for_ymgk`
 
 kullaniciadi yerine GitHub kullanıcı adınızı, lesson_ymgk_project ise repo adınızı belirtmelisiniz.
 
@@ -80,7 +80,3 @@ Bu komut, projenin pubspec.yaml dosyasındaki bağımlılıkları otomatik olara
 
 Bu komut, Flutter SDK'nın yerel emülatörde veya bağlı bir cihazda uygulamayı çalıştırmasını sağlar.
 
-# Diğer Dökümanlar
-<a href="https://github.com/gzcmustafa/flutter_project_forYmgk/tree/main/other_Documents" target="_blank">Tıklayınız</a>
-
-# project_for_ymgk
